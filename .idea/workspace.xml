@@ -4,18 +4,84 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="b3cd6333-b62b-4eb4-8b4a-bbd1ec7afe4f" name="Changes" comment="" />
+=======
+    <list default="true" id="b3cd6333-b62b-4eb4-8b4a-bbd1ec7afe4f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/StdEnvironment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/StdEnvironment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/abstractSyntaxTrees/visitors/CommandVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/abstractSyntaxTrees/visitors/CommandVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/codeGenerator/Encoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/codeGenerator/Encoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/contextualAnalyzer/Checker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/contextualAnalyzer/Checker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/syntacticAnalyzer/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/syntacticAnalyzer/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/syntacticAnalyzer/Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/syntacticAnalyzer/Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/syntacticAnalyzer/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/syntacticAnalyzer/Token.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/treeDrawer/LayoutVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.Compiler/src/main/java/triangle/treeDrawer/LayoutVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.Compiler/src/test/java/triangle/syntacticAnalyser/TestScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.Compiler/src/test/java/triangle/syntacticAnalyser/TestScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/bardemo.tri" beforeDir="false" afterPath="$PROJECT_DIR$/programs/bardemo.tri" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/errors.tri" beforeDir="false" afterPath="$PROJECT_DIR$/programs/errors.tri" afterDir="false" />
+    </list>
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< Updated upstream
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="TaskManager">
     <servers />
   </component>
+=======
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F7yO6VyGeJhXeSkP1WixlTUXLd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/georgecattley/Desktop/Triangle-Tools/Week-2-Triangle-Tools/Triangle-Tools&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3cd6333-b62b-4eb4-8b4a-bbd1ec7afe4f" name="Changes" comment="" />
+      <created>1663857382785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663857382785</updated>
+      <workItem from="1663857384503" duration="4179000" />
+      <workItem from="1664352518326" duration="21000" />
+      <workItem from="1664791275299" duration="6344000" />
+      <workItem from="1664822934089" duration="95000" />
+      <workItem from="1665395381571" duration="1149000" />
+      <workItem from="1665402224053" duration="1878000" />
+      <workItem from="1665999673949" duration="5351000" />
+      <workItem from="1666008788264" duration="632000" />
+      <workItem from="1666093743692" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+>>>>>>> Stashed changes
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
